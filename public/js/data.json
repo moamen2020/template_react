@@ -1,0 +1,105 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Phone Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "photo Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/portfolio-img8.jpg"
+        }
+    ] ,
+
+    "Profile" : [
+        {
+            "id" : 1,
+            "name" : "HTML/HTML5",
+            "percent" : "95%",
+            "Pars" : "Par1"
+        },
+        {
+            "id" : 2,
+            "name" : "Css/Css3",
+            "percent" : "90%",
+            "Pars" : "Par2"
+        },
+        {
+            "id" : 3,
+            "name" : "JavaScript/jQuery",
+            "percent" : "80%",
+            "Pars" : "Par3"
+        },
+        {
+            "id" : 4,
+            "name" : "React Js",
+            "percent" : "70%",
+            "Pars" : "Par4"
+        }
+    ],
+
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
